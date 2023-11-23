@@ -1,20 +1,14 @@
 const { StatusCodes } = require("http-status-codes");
+const { SuccessResponse, ErrorResponse } = require("../utils/common");
 const ValidateCreateAirplane = function (req, res, next) {
   if (!req.body.modelNumber) {
-    return res.status(StatusCodes.BAD_REQUEST).json({
-      success: false,
-      message: "Something Went wrong WHile Creating Airplane",
-      data: {},
-      error: [
-        {
-          explanation: "Model Number not found in Incoming Request ",
-        },
-      ],
-    });
+    ErrorResponse.message = "Something Went wrong WHile Creating Airplane";
+    ErrorResponse.error =["Model Number not found in Incoming Request"] 
+    return res.status(StatusCodes.BAD_REQUEST).json(ErrorResponse);
   }
   next();
 };
 
-module.exports={
-    ValidateCreateAirplane
-}
+module.exports = {
+  ValidateCreateAirplane,
+};
