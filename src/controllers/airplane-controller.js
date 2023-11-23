@@ -8,7 +8,7 @@ async function createAirplane(req, res) {
       modelNumber: req.body.modelNumber,
       capacity: req.body.capacity,
     });
-    return res.status(404).json({
+    return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({
       success: true,
       message: "Succesfully created an airplane",
       data: airplane,

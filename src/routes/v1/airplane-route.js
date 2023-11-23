@@ -1,9 +1,13 @@
-const express=require("express");
-const router=express.Router();
+const express = require("express");
+const router = express.Router();
 
-const {AirplaneController}=require('../../controllers');
+const { AirplaneController } = require("../../controllers");
+const { AirplaneMiddleware } = require("../../middlewares");
 
+router.post(
+  "/",
+  AirplaneMiddleware.ValidateCreateAirplane,
+  AirplaneController.createAirplane
+);
 
-router.post("/",AirplaneController.createAirplane)
-
-module.exports=router
+module.exports = router;
