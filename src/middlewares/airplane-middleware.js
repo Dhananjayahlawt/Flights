@@ -6,6 +6,11 @@ const ValidateCreateAirplane = function (req, res, next) {
     ErrorResponse.error =["Model Number not found in Incoming Request"] 
     return res.status(StatusCodes.BAD_REQUEST).json(ErrorResponse);
   }
+  if (!req.body.capacity) {
+    ErrorResponse.message = "Something Went wrong WHile Creating Airplane";
+    ErrorResponse.error =["Capcity not found in Incoming Request"] 
+    return res.status(StatusCodes.BAD_REQUEST).json(ErrorResponse);
+  }
   next();
 };
 

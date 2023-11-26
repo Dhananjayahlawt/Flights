@@ -12,8 +12,9 @@ async function createAirplane(req, res) {
     SuccessResponse.data = airplane;
     return res.status(StatusCodes.CREATED).json(SuccessResponse);
   } catch (error) {
+    console.log(error);
     ErrorResponse.error=error;
-    logger.error("Error in Controller:Airplane");
+    logger.error("Error in Controller:Airplane",ErrorResponse);
     return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(ErrorResponse);
   }
 }

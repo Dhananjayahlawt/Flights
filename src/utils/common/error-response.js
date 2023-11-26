@@ -2,7 +2,7 @@ const error = {
   success: false,
   message: "Something Went Wrong",
   data: {},
-  error: [],
+  error: {},
 };
 
 module.exports = error;

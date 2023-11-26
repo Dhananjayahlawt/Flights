@@ -7,11 +7,11 @@ const airplaneRepository = new AirplaneRepository();
 
 async function createAirplane(data) {
   try {
-    const airplane = await airplaneRepository.creat(data);
+    const airplane = await airplaneRepository.create(data);
     return airplane;
   } catch (error) {
+    let explanation = [];
     if ((error.name = "SequelizeValidationError")) {
-      let explanation = [];
       error.errors.forEach((err) => {
         explanation.push(err.message);
       });

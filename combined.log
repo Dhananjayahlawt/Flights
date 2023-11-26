@@ -141,3 +141,163 @@
 23-11-2023 17:11:96 [undefined] info: Succcessfully started the server
 23-11-2023 17:11:11 [undefined] info: Succcessfully started the server
 23-11-2023 17:11:63 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:19 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:68 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:68 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:68 [undefined] error: Error in Controller:Airplane
+26-11-2023 10:11:64 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:67 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:67 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:67 [undefined] error: Error in Controller:Airplane
+26-11-2023 10:11:34 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:61 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:44 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:88 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:99 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:99 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:99 [undefined] error: Error in Controller:Airplane
+26-11-2023 10:11:12 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:32 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:24 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:93 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:24 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:94 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:48 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:42 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:01 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:01 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:01 [undefined] error: Error in Controller:Airplane
+26-11-2023 10:11:27 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:62 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:62 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:62 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:61 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:68 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:27 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:28 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:28 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:05 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:44 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:57 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:58 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:85 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:85 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:08 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:08 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:71 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:63 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:63 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:78 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:41 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:84 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:38 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:86 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:86 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:93 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:05 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:15 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:88 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:88 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:88 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:75 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:75 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:75 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:14 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:76 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:11 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:91 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:15 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:91 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:18 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:45 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:43 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:43 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:23 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:59 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:59 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:59 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:10 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:00 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:00 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:00 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:67 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:84 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:37 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:01 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:28 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:65 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:13 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:13 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:13 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:07 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:44 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:50 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:99 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:99 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:07 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:54 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:54 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:57 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:36 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:36 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:91 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:69 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:85 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:78 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:79 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:11 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:54 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:49 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:47 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:47 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:47 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:70 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:73 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:73 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:73 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:77 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:55 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:57 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:57 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:57 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:27 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:77 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:51 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:01 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:57 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:57 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:58 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:99 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:45 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:12 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:29 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:29 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:29 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:28 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:49 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:32 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:32 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:32 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:42 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:28 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:11 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:65 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:20 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:94 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:95 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:95 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:37 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:79 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 10:11:79 [undefined] error: Error in Services:createAirplane
+26-11-2023 10:11:79 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 10:11:61 [undefined] info: Succcessfully started the server
+26-11-2023 10:11:42 [undefined] info: Succcessfully started the server
+26-11-2023 11:11:09 [undefined] info: Succcessfully started the server
+26-11-2023 11:11:45 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 11:11:45 [undefined] error: Error in Services:createAirplane
+26-11-2023 11:11:46 [undefined] error: Error in Controller:Airplane Something Went Wrong
+26-11-2023 11:11:92 [undefined] info: Succcessfully started the server
+26-11-2023 11:11:14 [undefined] info: Succcessfully started the server
+26-11-2023 11:11:05 [undefined] error: Something wnet wrong in crud:Create
+26-11-2023 11:11:05 [undefined] error: Error in Services:createAirplane
+26-11-2023 11:11:05 [undefined] error: Error in Controller:Airplane Something Went Wrong

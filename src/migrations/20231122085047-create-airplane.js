@@ -13,7 +13,8 @@ module.exports = {
         type: Sequelize.STRING
       },
       capacity: {
-        type: Sequelize.INTEGER
+        type: Sequelize.INTEGER,
+        validate:{max:30}
       },
       createdAt: {
         allowNull: false,
