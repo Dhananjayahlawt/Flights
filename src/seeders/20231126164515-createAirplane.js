@@ -26,6 +26,12 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date(),
       },
+      {
+        modelNumber: "Airbus 300",
+        capacity: 300,
+        createdAt: new Date(),
+        updatedAt: new Date(),
+      },
     ]);
   },
 
@@ -37,7 +43,11 @@ module.exports = {
      * await queryInterface.bulkDelete('People', null, {});
      */
     await queryInterface.bulkDelete("Airplanes", {
-      [Op.or]: [{ modelNumber: "Airbus450" }, { modelNumber: "Boeing350" }],
+      [Op.or]: [
+        { modelNumber: "Airbus450" },
+        { modelNumber: "Boeing350" },
+        { modelNumber: "Airbus 300" },
+      ],
     });
   },
 };
