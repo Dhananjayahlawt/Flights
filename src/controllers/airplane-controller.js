@@ -12,12 +12,50 @@ async function createAirplane(req, res) {
     SuccessResponse.data = airplane;
     return res.status(StatusCodes.CREATED).json(SuccessResponse);
   } catch (error) {
-    console.log(error);
-    ErrorResponse.error=error;
-    logger.error("Error in Controller:Airplane",ErrorResponse);
+    ErrorResponse.error = error;
+    logger.error("Error in Controller:Airplane", ErrorResponse);
+    return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(ErrorResponse);
+  }
+}
+
+async function getAirplanes(req, res) {
+  try {
+    const airplanes = await AirplaneService.getAirplanes();
+    SuccessResponse.data = airplanes;
+    return res.status(StatusCodes.OK).json(SuccessResponse);
+  } catch (error) {
+    ErrorResponse.error = error;
+    logger.error("Error in Controller:Airplane", ErrorResponse);
+    return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(ErrorResponse);
+  }
+}
+
+async function getAirplane(req, res) {
+  try {
+    const airplanes = await AirplaneService.getAirplane(req.params.id);
+    SuccessResponse.data = airplanes;
+    return res.status(StatusCodes.OK).json(SuccessResponse);
+  } catch (error) {
+    ErrorResponse.error = error;
+    logger.error("Error in Controller:Airplane", ErrorResponse);
+    return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(ErrorResponse);
+  }
+}
+
+async function destroyAirplane(req, res) {
+  try {
+    const airplanes = await AirplaneService.destroyAirplane(req.params.id);
+    SuccessResponse.data = airplanes;
+    return res.status(StatusCodes.OK).json(SuccessResponse);
+  } catch (error) {
+    ErrorResponse.error = error;
+    logger.error("Error in Controller:Airplane", ErrorResponse);
     return res.status(StatusCodes.INTERNAL_SERVER_ERROR).json(ErrorResponse);
   }
 }
 module.exports = {
   createAirplane,
+  getAirplanes,
+  getAirplane,
+  destroyAirplane,
 };
